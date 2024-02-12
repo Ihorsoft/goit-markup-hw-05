@@ -588,6 +588,7 @@ height: 40px;
 
 .footer-form {
              display:flex;
+            gap: 24px;
           /*   align-items: baseline;*/
 }
 
@@ -810,7 +811,7 @@ label {
 } 
 
 .modal-input-wrap {
-    position: relative;
+  /*  position: relative;*/
 }
 
 .modal-icon {
