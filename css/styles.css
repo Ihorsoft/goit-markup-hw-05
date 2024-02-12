@@ -572,10 +572,16 @@ height: 40px;
     border-radius: 4px;
     /*  margin-bottom: 8px;*/
   /*  padding-left: 40px; */
-    font-size: 16px;
+    font-size: 12px;
    /* outline: transparent;*/
     background-color: transparent;
-    padding-left: 12px;
+    padding-left: 16px;
+    line-height: 2;
+    letter-spacing: 0.04em;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+    color: #ffffff;
+    
+
    
         /* delet color black*/
 }
