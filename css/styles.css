@@ -816,6 +816,7 @@ text-decoration: underline;
 .modal-agree:checked + .check-txt span {
     background-color: #404BBF;
     fill:#F4F4FD;
+    border: none;
 }
 
 .modal-agree-txt {
