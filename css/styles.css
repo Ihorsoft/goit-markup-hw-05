@@ -673,7 +673,7 @@ height: 40px;
     border-radius: 4px;
     transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1);
     /* visibility 250ms cubic-bezier(0.4, 0, 0.2, 1);*/
-    box-shadow: зі значенням 0px 1px 1px rgba(0, 0, 0, 0.14), 
+    box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.14), 
     0px 1px 3px rgba(0, 0, 0, 0.12), 0px 2px 1px rgba(0, 0, 0, 0.2);
 
     }
@@ -725,8 +725,8 @@ height: 40px;
         line-height: 150%;
         letter-spacing: 0.02em;
         text-align: center;
-       
-      padding: 72px 24px 8px 24px; 
+    margin-bottom: 16px;
+      padding: 72px 24px 24px 24px; 
 }
 
 .modal-form {
@@ -833,9 +833,13 @@ label {
         letter-spacing: 0.04em;
     display: block;
     cursor: pointer;
-    margin-bottom: 8px;
+    margin-bottom: 4px;
    /*  font-size: 12px;  */
 } 
+
+.modal-label:hover, .modal-label:focus {
+    color: #8e8f99;
+}
 
 .modal-input-wrap {
     position: relative;
