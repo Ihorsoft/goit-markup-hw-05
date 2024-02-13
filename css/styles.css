@@ -624,13 +624,13 @@ height: 40px;
    /*width: 24px;
     height: 24px;*/
     margin-left: 16px;
-    position: absolute;
+   /* position: absolute;*/
     margin-bottom: 8px;
     right: 12px;
     top: 50%;
-    transform: translateY(-50%);
-   /* fill: #31D0AA; */
-   color:#E7E9FC;
+   /* transform: translateY(-50%); */
+    fill: #31D0AA; 
+       color:#E7E9FC;
 
 }
 
