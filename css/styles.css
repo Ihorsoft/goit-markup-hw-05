@@ -747,7 +747,7 @@ height: 40px;
 
 .modal-field-agree {
   /*  display: flex; */
-   align-items: center;
+ /*  align-items: center;*/
        cursor: pointer;
  
 }
@@ -797,7 +797,7 @@ text-decoration: underline;
         color: #8e8f99;
      /*   padding-left: 12px;*/
         width: 100%;
-       display: inline-flex; 
+     /*  display: inline-flex; */ 
      /*  flex-direction:  row;*/
        align-items: center;
       /* margin-left: 12px; */
