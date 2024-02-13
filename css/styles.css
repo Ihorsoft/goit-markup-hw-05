@@ -809,7 +809,8 @@ text-decoration: underline;
     /* border: 1px solid #434455; */
     margin-right: 12px;
    /* display: inline-block;*/*
-   display: inline-flex;
+  
+   display: inline-block;
    align-items: center;
    justify-content: center;
    fill: transparent;
