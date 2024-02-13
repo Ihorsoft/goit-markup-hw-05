@@ -792,7 +792,7 @@ text-decoration: underline;
         color: #8e8f99;
      /*   padding-left: 12px;*/
         width: 100%;
-       display: flex; 
+       display: inline-flex; 
      /*  flex-direction:  row;*/
        align-items: center;
       /* margin-left: 12px; */
